@@ -36,6 +36,10 @@ I'm also an Archer and proffesional Archery judge.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
