@@ -25,8 +25,11 @@ I'm also an Archer and proffesional Archery judge.
 <p>Village clicker is a clicking game where you manage resources and grow your population, this game was made as an exercise after only a few weeks of the education. </p>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Panacea](https://nonygl.itch.io/panacea)
+<img src="images/Panacea.png?raw=true"/>
+
+<p> The game is about an adventurer that has to retrieve a sword from the past to stop an evil wizard that unleashed a plague that killed most of the people. <br> 
+   This project was made at our second Game Jam which lasted for 24 hours, where I was the team leader and programmer. </p>
 
 ---
 [Project 3 Title](http://example.com/)
