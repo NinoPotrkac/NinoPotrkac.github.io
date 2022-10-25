@@ -48,7 +48,7 @@ I'm also an Archer and proffesional Archery judge.
 ---
 ### Game Trivia
 
-[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia)
+[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia) <br>
 <img src="images/GameTrivia1.png?raw=true"/>
 <img src="images/GameTrivia3.png?raw=true"/>
 
@@ -67,7 +67,6 @@ I'm also an Archer and proffesional Archery judge.
 
 ### AR 3D Archery
 
-[AR 3D Archery]
 <img src="images/z1.png?raw=true"/>
 <img src="images/z2.png?raw=true"/>
 <img src="images/z3.png?raw=true"/>
