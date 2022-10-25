@@ -18,11 +18,11 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Village Clicker
 
-[Project 1 Title](/sample_page)
+[Village clicker](/sample_page)
 <img src="images/Village Clicker.png?raw=true"/>
-<img src="images/PortfolioSlika.png?raw=true"/>
+<img src="images/Village Clicker 2.png?raw=true"/>
 
-<p>VIllage clicker is a clicking game where you manage resurses and grow your population </p>
+<p>Village clicker is a clicking game where you manage resources and grow your population, this game was made as an exercise after only a few weeks of the education. </p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -36,7 +36,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Village Clicker](https://nonygl.itch.io/village-clicker)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
