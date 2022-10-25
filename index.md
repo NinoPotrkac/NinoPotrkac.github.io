@@ -20,6 +20,7 @@ I'm also an Archer and proffesional Archery judge.
 
 [Project 1 Title](/sample_page)
 <img src="images/Village Clicker.png?raw=true"/>
+<img src="images/PortfolioSlika.png?raw=true"/>
 
 <p>VIllage clicker is a clicking game where you manage resurses and grow your population </p>
 
