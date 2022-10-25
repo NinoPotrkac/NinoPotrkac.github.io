@@ -34,6 +34,9 @@ I'm also an Archer and proffesional Archery judge.
    This project was made at our second Game Jam which lasted for 24 hours, where I was the team leader and programmer. </p>
 
 ---
+
+### Jump
+
 [Jump](https://nonygl.itch.io/jump)
 <img src="images/Jump1.png?raw=true"/>
 <img src="images/Jump2.png?raw=true"/>
