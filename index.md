@@ -14,6 +14,7 @@ I'm also an Archer and proffesional Archery judge.
    </p>
 
 ---
+<b>Projects I worked on </b>
 
 ### Category Name 1 
 
