@@ -62,6 +62,7 @@ I'm also an Archer and proffesional Archery judge.
 <img src="images/Christmas2.png?raw=true"/>
 
 <p> Christmas Shooter is the product of our last Game Jam, you play as Santa Claus and you shoot at evil monsters, the theme of the game jam was <b>Strange Powerups</b> <br> I was tasked with coming up with the power-ups, programming them, and programming them on the spinning wheel. </p>
+
 ---
 
 ### AR 3D Archery
