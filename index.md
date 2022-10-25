@@ -56,16 +56,20 @@ I'm also an Archer and proffesional Archery judge.
 
 
 ---
+### Christmas Shooter
 [Christmas Shooter](https://irpea.itch.io/christmas-shooter)
 <img src="images/Christmas1.png?raw=true"/>
 <img src="images/Christmas2.png?raw=true"/>
 
 <p> Christmas Shooter is the product of our last Game Jam, you play as Santa Claus and you shoot at evil monsters, the theme of the game jam was <b>Strange Powerups</b> <br> I was tasked with coming up with the power-ups, programming them, and programming them on the spinning wheel. </p>
 ---
+
+### AR 3D Archery
+
 [AR 3D Archery]
-<img src="images/Zavrsni11.png?raw=true"/>
-<img src="images/Zavrsni.png?raw=true"/>
-<img src="images/Zavrsni.pngraw=true"/>
+<img src="images/z1.png?raw=true"/>
+<img src="images/z2.png?raw=true"/>
+<img src="images/z3.png?raw=true"/>
 
 <p> the project I'm currently working on. Since I'm an archery judge and a programmer, I was some flaws in our 3D archery competitions and I decided to make an AR application that would be helpful. I also implemented a quit with the rules of the competition because I saw that a lot of people don't. </p>
 
