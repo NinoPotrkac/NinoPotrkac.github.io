@@ -18,7 +18,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Village Clicker
 
-[Village clicker](/sample_page)
+[Village clicker](https://nonygl.itch.io/village-clicker)
 <img src="images/Village Clicker.png?raw=true"/>
 <img src="images/Village Clicker 2.png?raw=true"/>
 
