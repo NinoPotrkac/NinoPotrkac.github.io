@@ -32,8 +32,12 @@ I'm also an Archer and proffesional Archery judge.
    This project was made at our second Game Jam which lasted for 24 hours, where I was the team leader and programmer. </p>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Jump](https://nonygl.itch.io/jump)
+<img src="images/Jump1.png?raw=true"/>
+<img src="images/Jump2.png?raw=true"/>
+<img src="images/Jump3.png?raw=true"/>
+
+<p>Jump is the project which I made in 4 days for our Hyper Casual game exercise, we also implemented the online high score in our games</p>
 
 ---
 [Project 4 Title](http://example.com/)
