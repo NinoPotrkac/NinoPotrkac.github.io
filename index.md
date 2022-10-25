@@ -16,10 +16,12 @@ I'm also an Archer and proffesional Archery judge.
 ---
 <b>Projects I worked on </b>
 
-### Category Name 1 
+### Village Clicker
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Village Clicker.png?raw=true"/>
+
+<p>VIllage clicker is a clicking game where you manage resurses and grow your population </p>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
