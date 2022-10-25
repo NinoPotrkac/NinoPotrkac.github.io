@@ -46,6 +46,16 @@ I'm also an Archer and proffesional Archery judge.
   you play the game by holding your finger on the screen, the longer you hold the higher you jump</p>
 
 ---
+### Game Trivia
+
+[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia)
+<img src="images/GameTrivia1.png?raw=true"/>
+<img src="GameTrivia2.png?raw=true"/>
+
+<p> Game Trivia is a quiz game that I made with my colleague and is the first game that we uploaded on the play store </p>
+
+
+---
 [Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
