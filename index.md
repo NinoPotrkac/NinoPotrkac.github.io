@@ -31,7 +31,7 @@ I'm also an Archer and proffesional Archery judge.
 <img src="images/Panacea.png?raw=true"/>
 
 <p> The game is about an adventurer that has to retrieve a sword from the past to stop an evil wizard that unleashed a plague that killed most of the people. <br> 
-   This project was made at our second Game Jam which lasted for 24 hours, where I was the team leader and programmer. </p>
+   This project was made at our second Game Jam which lasted for 24 hours, where I was the team leader and programmer. The theme os the Game Jam was <b>Strange Worlds</b> </p>
 
 ---
 
@@ -56,22 +56,17 @@ I'm also an Archer and proffesional Archery judge.
 
 
 ---
-[Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Christmas Shooter](https://irpea.itch.io/christmas-shooter)
+<img src="images/Christmas1.png?raw=true"/>
+<img src="images/Christmas2.png?raw=true"/>
 
+<p> Christmas Shooter is the product of our last Game Jam, you play as Santa Claus and you shoot at evil monsters, the theme of the game jam was <b>Strange Powerups</b> <br> I was tasked with coming up with the power-ups, programming them, and programming them on the spinning wheel. </p>
 ---
+[AR 3D Archery]
+<img src="images/Zavrsni1.png?raw=true"/>
+<img src="images/Zavrsni2.png?raw=true"/>
+<img src="images/Zavrsni3.pngraw=true"/>
 
-### Category Name 2
-
-- [Village Clicker](https://nonygl.itch.io/village-clicker)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+<p> the project I'm currently working on. Since I'm an archery judge and a programmer, I was some flaws in our 3D archery competitions and I decided to make an AR application that would be helpful. I also implemented a quit with the rules of the competition because I saw that a lot of people don't. </p>
 
 ---
