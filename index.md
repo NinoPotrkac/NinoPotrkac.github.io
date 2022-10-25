@@ -2,7 +2,7 @@
 ---
 
 <b>Work Expirience </b>
-<p>After Highschool I started working, I worked as a commissioner for a year at a Konzum Warehouse, and after that, I was a security guard at Securitas for 2 years. </p>
+<p>After highschool I started working, I worked as a commissioner for a year at a Konzum Warehouse, and after that, I was a security guard at Securitas for 2 years. </p>
 
 <br><br>
 
