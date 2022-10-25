@@ -1,5 +1,6 @@
-## Portfolio
+## About Me
 
+iso sam u skolu, proso sam i tak
 ---
 
 ### Category Name 1 
