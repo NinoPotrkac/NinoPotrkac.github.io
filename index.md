@@ -1,6 +1,8 @@
-## About Me
+## Portfolio
+---
 
-<p>iso sam u skolu, proso sam i tak </p>
+#About me
+<p>Iso u skoli ko i ostali</p>
 ---
 
 ### Category Name 1 
