@@ -25,6 +25,8 @@ I'm also an Archer and proffesional Archery judge.
 <p>Village clicker is a clicking game where you manage resources and grow your population, this game was made as an exercise after only a few weeks of the education. </p>
 
 ---
+### Panacea
+
 [Panacea](https://nonygl.itch.io/panacea)
 <img src="images/Panacea.png?raw=true"/>
 
