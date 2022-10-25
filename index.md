@@ -18,7 +18,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Village Clicker
 
-[Village clicker](https://nonygl.itch.io/village-clicker)
+[Village clicker](https://nonygl.itch.io/village-clicker) <br>
 <img src="images/Village Clicker.png?raw=true"/>
 <img src="images/Village Clicker 2.png?raw=true"/>
 
@@ -27,7 +27,7 @@ I'm also an Archer and proffesional Archery judge.
 ---
 ### Panacea
 
-[Panacea](https://nonygl.itch.io/panacea)
+[Panacea](https://nonygl.itch.io/panacea) <br>
 <img src="images/Panacea.png?raw=true"/>
 
 <p> The game is about an adventurer that has to retrieve a sword from the past to stop an evil wizard that unleashed a plague that killed most of the people. <br> 
@@ -37,7 +37,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Jump
 
-[Jump](https://nonygl.itch.io/jump)
+[Jump](https://nonygl.itch.io/jump) <br>
 <img src="images/Jump1.png?raw=true"/>
 <img src="images/Jump2.png?raw=true"/>
 <img src="images/Jump3.png?raw=true"/>
@@ -57,7 +57,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ---
 ### Christmas Shooter
-[Christmas Shooter](https://irpea.itch.io/christmas-shooter)
+[Christmas Shooter](https://irpea.itch.io/christmas-shooter) <br>
 <img src="images/Christmas1.png?raw=true"/>
 <img src="images/Christmas2.png?raw=true"/>
 
