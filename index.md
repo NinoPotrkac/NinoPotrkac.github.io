@@ -1,7 +1,7 @@
 ## Portfolio
 ---
 
-#About me
+##About me
 <p>Iso u skoli ko i ostali</p>
 ---
 
