@@ -1,6 +1,6 @@
 ## About Me
 
-iso sam u skolu, proso sam i tak
+<p>iso sam u skolu, proso sam i tak </p>
 ---
 
 ### Category Name 1 
