@@ -71,6 +71,7 @@ I'm also an Archer and proffesional Archery judge.
 <img src="images/z2.png?raw=true"/>
 <img src="images/z3.png?raw=true"/>
 
-<p> the project I'm currently working on. Since I'm an archery judge and a programmer, I was some flaws in our 3D archery competitions and I decided to make an AR application that would be helpful. I also implemented a quit with the rules of the competition because I saw that a lot of people don't. </p>
+<p> the project I'm currently working on. Since I'm an archery judge and a programmer, I was some flaws in our 3D archery competitions and I decided to make an AR application that would be helpful. I also implemented a quit with the rules of the competition because I saw that a lot of people don't.
+<br> All models were 3D scaned by me</p>
 
 ---
