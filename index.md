@@ -65,6 +65,14 @@ I'm also an Archer and proffesional Archery judge.
 
 ---
 
+### Kingscape
+[Kingscape](https://pai-group.itch.io/kingscape) <br>
+<img src="images/ayPLgk.png?raw=true"/>
+
+<p> This chess inspired game was made during a Game Jam that our team attended. I was a programer at that project. </p>
+
+---
+
 ### AR 3D Archery
 
 <img src="images/z1.png?raw=true"/>
