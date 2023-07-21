@@ -9,7 +9,7 @@
 <b>About me</b> 
 <p> I fell in love with video games when I was 5 years old and always wanted to make games. After I found out that there is Unity education in Novska I quit my security guard job and applied. Here I found out that this is the thing I want to do in my life, this is the thing that I love doing. I also found out that I love writing code, even tho I never wrote a single line of code before I came to Unity education. <br>
 I like playing hard games (Dark Souls, Elden Ring) and games where I need to use my brain (We Were Here, Escape Simulator) <br>
-In my free time, I also play board games, Dungeons, And Dragons, go to Escape rooms and do Karting.<br>
+In my free time, I also play board games, Dungeons And Dragons, go to Escape rooms and do Karting.<br>
 I'm also an Archer and proffesional Archery judge.  
    </p>
 
