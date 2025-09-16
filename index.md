@@ -100,6 +100,13 @@ I'm also an Archer and proffesional Archery judge.
   From <b>2023 to 2025</b> I was employed in Novska at <b>FNB Henčel</b>, where I worked on a variety of client and internal projects:
 </p>
 
+<p><b> Pješačke staze SMŽ</b> </p>
+
+My role was to produce the entire library of trails for the application.
+
+
+
+
 <ul>
   <li><b>Pješačke staze SMŽ</b> — interactive/digital walking trails for Sisačko-moslavačka županija.</li>
   <li><b>FNB Henčel Website</b> — company website build and ongoing updates.</li>
