@@ -105,24 +105,33 @@ I'm also an Archer and proffesional Archery judge.
 
 <p><b> Pješačke staze SMŽ</b> </p>
 
-My role was to produce the entire library of trails for the application.<br>
+This project was a collaboration with Hiroma Studio. My role was to produce the entire library of trails for the application.<br>
 <a href="https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ" target="_blank" rel="noopener noreferrer">Pješačke staze SMŽ</a>
 
 <p><b>FNB Henčel Website</b></p>
+
 I designed and built the entire website in WordPress.<br>
 <a href="https://fnbhencel.hr/" target="_blank" rel="noopener noreferrer">FNB Henčel</a>
 
 <p><b>Creating digital twins</b></p>
+
 I developed two digital twins—virtual replicas of the machines—to enable hands-on training in a risk-free environment before using the real equipment.
 <br><a href="https://www.youtube.com/watch?v=3BNk323-cJQ&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">Laser cutter and engraver</a>
 <br><a href="https://www.youtube.com/watch?v=8W4uGpV-Y4Y&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">cooling conveyor</a>
+
+<p><b>Programming a robot & training</b></p>
+
+We worked with Grow Studio to obtain a robot, learn its programming, and then train Krapina professors so they could teach robotics to their students.
+
+<p><b>Word & Excel training (Croatian Government, 2 months)</b></p>
+
+Edukacentar sent me to the Croatian Government for two months to train four groups of employees in Microsoft Word and Excel, starting with basics and moving to advanced topics.
+
 
 
 <ul>
 
  
-  <li><b>Creating digital twins</b> — 3D scanning and real-time models for AR/VR demos.</li>
-  <li><b>Programming a robot & training</b> — developed control scripts and trained staff to program it.</li>
   <li><b>Word & Excel training (Croatian Government, 2 months)</b> — delivered end-user courses.</li>
   <li><b>Twin Souls</b> — video game project (role: programmer/designer).</li>
   <li><b>Natura — AR application</b> — augmented-reality experience for “Natura”.</li>
