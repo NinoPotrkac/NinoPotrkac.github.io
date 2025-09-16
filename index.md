@@ -93,3 +93,20 @@ I'm also an Archer and proffesional Archery judge.
 <p> This was a Home Assignment for the Crazy Labs Hyper Casual games education in Novi Sad. </p>
 
 ---
+
+
+<b>Employment (2023–2025)</b>
+<p>
+  From <b>2023 to 2025</b> I was employed in Novska at <b>FNB Henčel</b>, where I worked on a variety of client and internal projects:
+</p>
+
+<ul>
+  <li><b>Pješačke staze SMŽ</b> — interactive/digital walking trails for Sisačko-moslavačka županija.</li>
+  <li><b>FNB Henčel Website</b> — company website build and ongoing updates.</li>
+  <li><b>Creating digital twins</b> — 3D scanning and real-time models for AR/VR demos.</li>
+  <li><b>Programming a robot & training</b> — developed control scripts and trained staff to program it.</li>
+  <li><b>Word & Excel training (Croatian Government, 2 months)</b> — delivered end-user courses.</li>
+  <li><b>Twin Souls</b> — video game project (role: programmer/designer).</li>
+  <li><b>Natura — AR application</b> — augmented-reality experience for “Natura”.</li>
+  <li><b>Potjera</b> — mobile quiz game.</li>
+</ul>
