@@ -76,9 +76,9 @@ I'm also an Archer and proffesional Archery judge.
 ### AR 3D Archery
 
 <a href="https://nonygl.itch.io/ar-3d-archery" target="_blank" rel="noopener noreferrer">AR 3D ARCHERY</a> <br>
-<img src="images/z1.png?raw=true"/>
-<img src="images/z2.png?raw=true"/>
-<img src="images/z3.png?raw=true"/>
+<img src="images/z1.png?raw=true" alt="AR 3D Archery — image 1" width="250" loading="lazy">
+<img src="images/z2.png?raw=true" alt="AR 3D Archery — image 2" width="250" loading="lazy">
+<img src="images/z3.png?raw=true" alt="AR 3D Archery — image 3" width="250" loading="lazy">
 
 <p> This is my final product from the unity education in Novska. Since I'm an archery judge and a programmer, I was some flaws in our 3D archery competitions and I decided to make an AR application that would be helpful. I also implemented a quit with the rules of the competition because I saw that a lot of people don't.
 <br> All models were 3D scaned by me</p>
@@ -88,9 +88,10 @@ I'm also an Archer and proffesional Archery judge.
 ### Experience Run
 
 <a href="https://nonygl.itch.io/experience-run" target="_blank" rel="noopener noreferrer">Experience Run</a> <br>
-<img src="images/XPRun.png?raw=true"/>
-<img src="images/XPRun2.png?raw=true"/>
-<img src="images/XPRun3.png?raw=true"/>
+<img src="images/XPRun.png?raw=true" alt="Experience Run — image 1" width="250" loading="lazy">
+<img src="images/XPRun2.png?raw=true" alt="Experience Run — image 2" width="250" loading="lazy">
+<img src="images/XPRun3.png?raw=true" alt="Experience Run — image 3" width="250" loading="lazy">
+
 
 <p> This was a Home Assignment for the Crazy Labs Hyper Casual games education in Novi Sad. </p>
 
