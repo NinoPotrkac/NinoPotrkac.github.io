@@ -2,7 +2,7 @@
 ---
 
 <b>Work Expirience </b>
-<p>After highschool I started working, I worked as a commissioner for a year at a Konzum Warehouse, and after that, I was a security guard at Securitas for 2 years. </p>
+<p>After highschool I started working, I worked as a commissioner for a year at a Konzum Warehouse, and after that, I was a security guard at Securitas for 2 years. From 2023 to 2025 i worked in novska at FNB Henčel where i worked on many projects that will be mentioned below. </p>
 
 <br><br>
 
