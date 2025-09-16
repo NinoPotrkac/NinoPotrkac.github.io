@@ -103,7 +103,7 @@ I'm also an Archer and proffesional Archery judge.
 <p><b> Pješačke staze SMŽ</b> </p>
 
 My role was to produce the entire library of trails for the application.<br>
-[Pješačke staze SMŽ](https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ)
+<a href="https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ" target="_blank" rel="noopener noreferrer">Pješačke staze SMŽ</a>
 
 <p><b>FNB Henčel Website</b></p>
 I designed and built the entire website in WordPress.<br>
