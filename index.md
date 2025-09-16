@@ -19,7 +19,7 @@ I'm also an Archer and proffesional Archery judge.
 ### Village Clicker
 
 <a href="https://nonygl.itch.io/village-clicker" target="_blank" rel="noopener noreferrer">Village clicker</a> <br>
-<img src="images/Village Clicker.png?raw=true"/>
+<img src="images/Village%20Clicker.png?raw=true" alt="Village Clicker" width="320" loading="lazy">
 <img src="images/Village Clicker 2.png?raw=true"/>
 
 <p>Village clicker is a clicking game where you manage resources and grow your population, this game was made as an exercise after only a few weeks of the education. </p>
