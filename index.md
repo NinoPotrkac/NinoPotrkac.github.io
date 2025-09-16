@@ -102,17 +102,17 @@ I'm also an Archer and proffesional Archery judge.
 
 <p><b> Pješačke staze SMŽ</b> </p>
 
-My role was to produce the entire library of trails for the application.
+My role was to produce the entire library of trails for the application.<br>
 [Pješačke staze SMŽ](https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ)
 
 <p><b>FNB Henčel Website</b></p>
-I designed and built the entire website in WordPress.
+I designed and built the entire website in WordPress.<br>
 [FNB Henčel](https://fnbhencel.hr/)
 
 <p><b>Creating digital twins</b></p>
 I developed two digital twins—virtual replicas of the machines—to enable hands-on training in a risk-free environment before using the real equipment.
-[Laser cutter and engraver](https://www.youtube.com/watch?v=3BNk323-cJQ&ab_channel=FNBHEN%C4%8CEL)
-[cooling conveyor](https://www.youtube.com/watch?v=8W4uGpV-Y4Y&ab_channel=FNBHEN%C4%8CEL)
+<br>[Laser cutter and engraver](https://www.youtube.com/watch?v=3BNk323-cJQ&ab_channel=FNBHEN%C4%8CEL)
+<br>[cooling conveyor](https://www.youtube.com/watch?v=8W4uGpV-Y4Y&ab_channel=FNBHEN%C4%8CEL)
 
 
 <ul>
