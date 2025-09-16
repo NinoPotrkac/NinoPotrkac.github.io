@@ -1,15 +1,14 @@
-title: Nino Potrkač # your name (or website title) here
-logo: "/images/PortfolioSlika.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-   Date of birth:<b> 12.1.1997. (28) </b><br>
-  Email:<b> potrkac.nino@gmail.com </b> <br>
-  Phone Number:<b> (+385)95-510-4388 </b> <br>
-  Address:<b> Ante Jakšića 30, Zagreb, Croatia </b> <br>
-  Highschool:<b> Elektrotehnička Škola Zagreb</b> <br>
-  Highschool Degree:<b> Electrical Technician</b> <br>
-  
+title: "Nino Potrkač"
+logo: "/images/PortfolioSlika.png?raw=true"
+description: |
+  Date of birth: <b>12.1.1997. (<span id="age"></span>)</b><br>
+  Email: <b>potrkac.nino@gmail.com</b> <br>
+  Phone Number: <b>(+385)95-510-4388</b> <br>
+  Address: <b>Ante Jakšića 30, Zagreb, Croatia</b> <br>
+  Highschool: <b>Elektrotehnička Škola Zagreb</b> <br>
+  Highschool Degree: <b>Electrical Technician</b> <br>
   <br><br>
-  <a href="https://nonygl.itch.io//">My itchio</a> 
-  
+  <a href="https://nonygl.itch.io/">My itch.io</a>
+
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: "UA-000000-0"
