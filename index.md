@@ -127,12 +127,16 @@ We worked with Grow Studio to obtain a robot, learn its programming, and then tr
 
 Edukacentar sent me to the Croatian Government for two months to train four groups of employees in Microsoft Word and Excel, starting with basics and moving to advanced topics.
 
+<p><b>Twin Souls</b></p>
 
+Contributed to finalization and polish on Twin Souls (unreleased).<br>
+<img src="images/ts.png?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
+<img src="images/ts1.png?raw=true" alt="Twin Souls — image 2" width="250" loading="lazy">
+<img src="images/ts2.png?raw=true" alt="Twin Souls — image 3" width="250" loading="lazy">
 
 <ul>
 
- 
-  <li><b>Word & Excel training (Croatian Government, 2 months)</b> — delivered end-user courses.</li>
+
   <li><b>Twin Souls</b> — video game project (role: programmer/designer).</li>
   <li><b>Natura — AR application</b> — augmented-reality experience for “Natura”.</li>
   <li><b>Potjera</b> — mobile quiz game.</li>
