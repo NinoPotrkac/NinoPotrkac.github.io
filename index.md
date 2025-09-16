@@ -103,7 +103,7 @@ I'm also an Archer and proffesional Archery judge.
 <p><b> Pješačke staze SMŽ</b> </p>
 
 My role was to produce the entire library of trails for the application.
-https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ
+[Pješačke staze SMŽ](https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ)
 
 
 <ul>
