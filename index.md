@@ -105,10 +105,19 @@ I'm also an Archer and proffesional Archery judge.
 My role was to produce the entire library of trails for the application.
 [Pješačke staze SMŽ](https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ)
 
+<p><b>FNB Henčel Website</b></p>
+I designed and built the entire website in WordPress.
+[FNB Henčel](https://fnbhencel.hr/)
+
+<p><b>Creating digital twins</b></p>
+I developed two digital twins—virtual replicas of the machines—to enable hands-on training in a risk-free environment before using the real equipment.
+[Laser cutter and engraver](https://www.youtube.com/watch?v=3BNk323-cJQ&ab_channel=FNBHEN%C4%8CEL)
+[cooling conveyor](https://www.youtube.com/watch?v=8W4uGpV-Y4Y&ab_channel=FNBHEN%C4%8CEL)
+
 
 <ul>
-  <li><b>Pješačke staze SMŽ</b> — interactive/digital walking trails for Sisačko-moslavačka županija.</li>
-  <li><b>FNB Henčel Website</b> — company website build and ongoing updates.</li>
+
+ 
   <li><b>Creating digital twins</b> — 3D scanning and real-time models for AR/VR demos.</li>
   <li><b>Programming a robot & training</b> — developed control scripts and trained staff to program it.</li>
   <li><b>Word & Excel training (Croatian Government, 2 months)</b> — delivered end-user courses.</li>
