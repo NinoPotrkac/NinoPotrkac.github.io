@@ -38,9 +38,9 @@ I'm also an Archer and proffesional Archery judge.
 ### Jump
 
 <a href="https://nonygl.itch.io/jump" target="_blank" rel="noopener noreferrer">Jump</a> <br>
-<img src="images/Jump1.png?raw=true" alt="Jump screenshot 1" width="200" loading="lazy">
-<img src="images/Jump2.png?raw=true" alt="Jump screenshot 2" width="200" loading="lazy">
-<img src="images/Jump3.png?raw=true" alt="Jump screenshot 3" width="200" loading="lazy">
+<img src="images/Jump1.png?raw=true" alt="Jump screenshot 1" width="250" loading="lazy">
+<img src="images/Jump2.png?raw=true" alt="Jump screenshot 2" width="250" loading="lazy">
+<img src="images/Jump3.png?raw=true" alt="Jump screenshot 3" width="250" loading="lazy">
 
 <p>Jump is the project which I made in 4 days for our Hyper Casual game exercise, we also implemented the online high score in our games <br>
   you play the game by holding your finger on the screen, the longer you hold the higher you jump</p>
