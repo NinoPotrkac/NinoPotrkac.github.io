@@ -104,7 +104,7 @@ I'm also an Archer and proffesional Archery judge.
 
 My role was to produce the entire library of trails for the application.
 
-<img src="images/smz0.png?raw=true"/> <img src="images/smz1.png?raw=true"/>
+<img src="images/smz0.png?raw=true"/>
 
 <ul>
   <li><b>Pješačke staze SMŽ</b> — interactive/digital walking trails for Sisačko-moslavačka županija.</li>
