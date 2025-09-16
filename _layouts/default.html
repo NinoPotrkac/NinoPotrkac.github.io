@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -61,5 +61,25 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+    <!-- Auto-calculate age: put <span id="age"></span> where you want it -->
+    <script>
+      (function () {
+        function calculateAge(birthDate) {
+          const today = new Date();
+          let age = today.getFullYear() - birthDate.getFullYear();
+          const m = today.getMonth() - birthDate.getMonth();
+          if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) age--;
+          return age;
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+          const el = document.getElementById('age');
+          if (el) {
+            // YYYY, MM-1, DD  -> 1997, 0, 12 for Jan 12, 1997
+            el.textContent = calculateAge(new Date(1997, 0, 12));
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
