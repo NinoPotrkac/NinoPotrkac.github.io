@@ -134,10 +134,15 @@ Contributed to finalization and polish on Twin Souls (unreleased).<br>
 <img src="images/ts1.jpg?raw=true" alt="Twin Souls — image 2" width="500" loading="lazy">
 <img src="images/ts2.jpg?raw=true" alt="Twin Souls — image 3" width="500" loading="lazy">
 
+<p><b>Natura — AR application</b></p>
+
+Collaborated with a Grow Studio artist to develop an AR application for the "Edukativno–prezentacijski centar Natura SMŽ".<br>
+<a href="https://play.google.com/store/apps/details?id=com.UnityTechnologies.com.Natura&amp;hl=en" target="_blank" rel="noopener noreferrer">Natura AR(Google Play)</a>
+
+
+
 <ul>
 
 
-  <li><b>Twin Souls</b> — video game project (role: programmer/designer).</li>
-  <li><b>Natura — AR application</b> — augmented-reality experience for “Natura”.</li>
   <li><b>Potjera</b> — mobile quiz game.</li>
 </ul>
