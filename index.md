@@ -130,9 +130,9 @@ Edukacentar sent me to the Croatian Government for two months to train four grou
 <p><b>Twin Souls</b></p>
 
 Contributed to finalization and polish on Twin Souls (unreleased).<br>
-<img src="images/ts.png?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
-<img src="images/ts1.png?raw=true" alt="Twin Souls — image 2" width="250" loading="lazy">
-<img src="images/ts2.png?raw=true" alt="Twin Souls — image 3" width="250" loading="lazy">
+<img src="images/ts.jpg?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
+<img src="images/ts1.jpg?raw=true" alt="Twin Souls — image 2" width="250" loading="lazy">
+<img src="images/ts2.jpg?raw=true" alt="Twin Souls — image 3" width="250" loading="lazy">
 
 <ul>
 
