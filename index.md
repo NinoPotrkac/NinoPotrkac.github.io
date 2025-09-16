@@ -18,7 +18,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Village Clicker
 
-[Village clicker](https://nonygl.itch.io/village-clicker) <br>
+<a href="https://nonygl.itch.io/village-clicker" target="_blank" rel="noopener noreferrer">Village clicker</a> <br>
 <img src="images/Village Clicker.png?raw=true"/>
 <img src="images/Village Clicker 2.png?raw=true"/>
 
@@ -27,7 +27,7 @@ I'm also an Archer and proffesional Archery judge.
 ---
 ### Panacea
 
-[Panacea](https://nonygl.itch.io/panacea) <br>
+<a href="https://nonygl.itch.io/panacea" target="_blank" rel="noopener noreferrer">Panacea</a> <br>
 <img src="images/Panacea.png?raw=true"/>
 
 <p> The game is about an adventurer that has to retrieve a sword from the past to stop an evil wizard that unleashed a plague that killed most of the people. <br> 
@@ -37,7 +37,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Jump
 
-[Jump](https://nonygl.itch.io/jump) <br>
+<a href="https://nonygl.itch.io/jump" target="_blank" rel="noopener noreferrer">Jump</a> <br>
 <img src="images/Jump1.png?raw=true"/> <img src="images/Jump2.png?raw=true"/> <img src="images/Jump3.png?raw=true"/>
 
 <p>Jump is the project which I made in 4 days for our Hyper Casual game exercise, we also implemented the online high score in our games <br>
@@ -46,7 +46,7 @@ I'm also an Archer and proffesional Archery judge.
 ---
 ### Game Trivia
 
-[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia) <br>
+<a href="https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia" target="_blank" rel="noopener noreferrer">Game Trivia</a> <br>
 <img src="images/GameTrivia1.png?raw=true"/>
 <img src="images/GameTrivia3.png?raw=true"/>
 
@@ -55,7 +55,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ---
 ### Christmas Shooter
-[Christmas Shooter](https://irpea.itch.io/christmas-shooter) <br>
+<a href="https://irpea.itch.io/christmas-shooter" target="_blank" rel="noopener noreferrer">Christmas Shooter</a> <br>
 <img src="images/Christmas1.png?raw=true"/>
 <img src="images/Christmas2.png?raw=true"/>
 
@@ -64,7 +64,7 @@ I'm also an Archer and proffesional Archery judge.
 ---
 
 ### Kingscape
-[Kingscape](https://pai-group.itch.io/kingscape) <br>
+<a href="https://pai-group.itch.io/kingscape" target="_blank" rel="noopener noreferrer">Kingscape</a> <br>
 <img src="images/ayPLgk.png?raw=true"/>
 
 <p> This chess inspired game was made during a Game Jam that our team attended. I was a programer at that project. </p>
@@ -73,7 +73,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### AR 3D Archery
 
-[AR 3D ARCHERY](https://nonygl.itch.io/ar-3d-archery) <br>
+<a href="https://nonygl.itch.io/ar-3d-archery" target="_blank" rel="noopener noreferrer">AR 3D ARCHERY</a> <br>
 <img src="images/z1.png?raw=true"/>
 <img src="images/z2.png?raw=true"/>
 <img src="images/z3.png?raw=true"/>
@@ -85,7 +85,7 @@ I'm also an Archer and proffesional Archery judge.
 
 ### Experience Run
 
-[Experience Run](https://nonygl.itch.io/experience-run) <br>
+<a href="https://nonygl.itch.io/experience-run" target="_blank" rel="noopener noreferrer">Experience Run</a> <br>
 <img src="images/XPRun.png?raw=true"/>
 <img src="images/XPRun2.png?raw=true"/>
 <img src="images/XPRun3.png?raw=true"/>
@@ -107,12 +107,12 @@ My role was to produce the entire library of trails for the application.<br>
 
 <p><b>FNB Henčel Website</b></p>
 I designed and built the entire website in WordPress.<br>
-[FNB Henčel](https://fnbhencel.hr/)
+<a href="https://fnbhencel.hr/" target="_blank" rel="noopener noreferrer">FNB Henčel</a>
 
 <p><b>Creating digital twins</b></p>
 I developed two digital twins—virtual replicas of the machines—to enable hands-on training in a risk-free environment before using the real equipment.
-<br>[Laser cutter and engraver](https://www.youtube.com/watch?v=3BNk323-cJQ&ab_channel=FNBHEN%C4%8CEL)
-<br>[cooling conveyor](https://www.youtube.com/watch?v=8W4uGpV-Y4Y&ab_channel=FNBHEN%C4%8CEL)
+<br><a href="https://www.youtube.com/watch?v=3BNk323-cJQ&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">Laser cutter and engraver</a>
+<br><a href="https://www.youtube.com/watch?v=8W4uGpV-Y4Y&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">cooling conveyor</a>
 
 
 <ul>
