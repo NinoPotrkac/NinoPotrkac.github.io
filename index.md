@@ -1,17 +1,23 @@
 ## Portfolio
 ---
 
-<b>Work Expirience </b>
-<p>After highschool I started working, I worked as a commissioner for a year at a Konzum Warehouse, and after that, I was a security guard at Securitas for 2 years. From 2023 to 2025 i worked in novska at FNB Henčel where i worked on many projects that will be mentioned below. </p>
+<b>Work Experience</b>
+<p>
+  After secondary school, I spent one year as an order picker (commissioner) at the Konzum warehouse, followed by two years as a security guard at Securitas.
+  From 2023 to 2025, I worked in Novska at FNB Henčel, contributing to a range of projects listed below.
+</p>
 
 <br><br>
 
-<b>About me</b> 
-<p> I fell in love with video games when I was 5 years old and always wanted to make games. After I found out that there is Unity education in Novska I quit my security guard job and applied. Here I found out that this is the thing I want to do in my life, this is the thing that I love doing. I also found out that I love writing code, even tho I never wrote a single line of code before I came to Unity education. <br>
-I like playing hard games (Dark Souls, Elden Ring) and games where I need to use my brain (We Were Here, Escape Simulator) <br>
-In my free time, I also play board games, Dungeons And Dragons, go to Escape rooms and do Karting.<br>
-I'm also an Archer and proffesional Archery judge.  
-   </p>
+<b>About Me</b>
+<p>
+  I’ve been passionate about games since childhood and always wanted to create them. After discovering the Unity training program in Novska, I left my security job to enroll. That decision confirmed that I wanted to focus   on game programming. Starting with no coding background, I quickly built a solid foundation and a habit of writing clean code.
+</p>
+<p>
+  I enjoy challenging games (Dark Souls, Elden Ring) and puzzle/coop experiences (We Were Here, Escape Simulator). In my free time I play board games, <i>Dungeons &amp; Dragons</i>,
+  visit escape rooms, and go karting. I’m also an archer and a certified archery judge.
+</p>
+
 
 ---
 <b>Projects I worked on </b>
