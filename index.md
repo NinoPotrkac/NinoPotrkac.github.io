@@ -109,41 +109,51 @@
   From <b>2023 to 2025</b> I was employed in Novska at <b>FNB Henčel</b>, where I worked on a variety of client and internal projects:
 </p>
 
+---
 <p><b> Pješačke staze SMŽ</b> </p>
 
 This project was a collaboration with Hiroma Studio. My role was to produce the entire library of trails for the application.<br>
 <a href="https://play.google.com/store/apps/details?id=com.SMZ.PjesackeStazeSMZ" target="_blank" rel="noopener noreferrer">Pješačke staze SMŽ</a> <br>
+---
 
 <p><b>FNB Henčel Website</b></p>
 
 I designed and built the entire website in WordPress.<br>
 <a href="https://fnbhencel.hr/" target="_blank" rel="noopener noreferrer">FNB Henčel</a> <br>
+---
 
 <p><b>Creating digital twins</b></p>
 
 I developed two digital twins—virtual replicas of the machines—to enable hands-on training in a risk-free environment before using the real equipment.
 <br><a href="https://www.youtube.com/watch?v=3BNk323-cJQ&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">Laser cutter and engraver</a>
 <br><a href="https://www.youtube.com/watch?v=8W4uGpV-Y4Y&amp;ab_channel=FNBHEN%C4%8CEL" target="_blank" rel="noopener noreferrer">cooling conveyor</a> <br>
+---
 
 <p><b>Programming a robot & training</b></p>
 
 We worked with Grow Studio to obtain a robot, learn its programming, and then train Krapina professors so they could teach robotics to their students.<br>
+---
 
 <p><b>Word & Excel training (Croatian Government, 2 months)</b></p>
 
+
 Edukacentar sent me to the Croatian Government for two months to train four groups of employees in Microsoft Word and Excel, starting with basics and moving to advanced topics.<br>
+---
 
 <p><b>Twin Souls</b></p>
+
 
 Contributed to finalization and polish on Twin Souls (unreleased).<br>
 <img src="images/ts.jpg?raw=true" alt="Twin Souls — image 1" width="500" loading="lazy">
 <img src="images/ts1.jpg?raw=true" alt="Twin Souls — image 2" width="500" loading="lazy">
 <img src="images/ts2.jpg?raw=true" alt="Twin Souls — image 3" width="500" loading="lazy"> <br>
+---
 
 <p><b>Natura — AR application</b></p>
 
 Collaborated with a Grow Studio artist to develop an AR application for the "Edukativno–prezentacijski centar Natura SMŽ".<br>
 <a href="https://play.google.com/store/apps/details?id=com.UnityTechnologies.com.Natura&amp;hl=en" target="_blank" rel="noopener noreferrer">Natura AR(Google Play)</a> <br>
+---
 
 <p><b>Potjera</b></p>
 
@@ -151,4 +161,5 @@ Worked on developing a game that recreates the TV quiz show ‘Potjera’. <br>
 <img src="images/p.jpg?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
 <img src="images/p1.jpg?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
 <img src="images/p2.jpg?raw=true" alt="Twin Souls — image 1" width="250" loading="lazy">
+---
 
